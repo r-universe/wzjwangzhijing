@@ -5,6 +5,3 @@
 [submodule "pECV"]
 	path = pECV
 	url = https://github.com/cran/pECV
-[submodule "transGFM"]
-	path = transGFM
-	url = https://github.com/cran/transGFM
